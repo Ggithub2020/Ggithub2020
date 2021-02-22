@@ -9,6 +9,6 @@
 
 
 
-## ![alt text](C:\Users\girum\OneDrive\Pictures.business-intelligence-1024x358-1024x358.jpg)
+## ![business-intelligence-1024x358-1024x358](https://user-images.githubusercontent.com/73087775/108652825-e5c9bb00-7479-11eb-9270-a3b4f294e4e8.jpg)
 
 
