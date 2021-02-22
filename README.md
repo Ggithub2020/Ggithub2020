@@ -4,9 +4,6 @@
 
 
 ## My Name is Girum. Thank you for visiting my profile 
-## ![596b2390daf7184dae76d42d4f54e9a3](https://user-images.githubusercontent.com/73087775/108653417-3988d400-747b-11eb-9dd7-0a793b67e4ec.jpg)
-
-
 ## 🔭 I’m a passonate SQL and Power BI developer 
 ## 🌱 Having knowledge in relational database management system (RDBMS), SQL, power BI ,ETL, Agile SDLC, Crystal reports.
 
