@@ -9,7 +9,7 @@
 ##  Creating Visualization reports and dashboards for large datasets using Power BI tool to improve business leads across divisions to improve better business decisions.
 
 ##  My Portfolio hosted using Github pages [here](https://ggithub2020.github.io/Ggithub2020-Ggithub2020-.github.io/)
-##  updates on [LinkedIn](https://www.linkedin.com/in/girum-legese/)
+
 
 
 
