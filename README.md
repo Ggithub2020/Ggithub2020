@@ -6,7 +6,7 @@
 ## 🔭 I’m a passonate SQL and Power BI developer 
 ## 🌱 Having knowledge in Relational database management system (RDBMS), SQL, power BI ,ETL,DAX,Software Testing, Agile SDLC,Azure,Azure Data Factory, Crystal reports.
 ##  Creating Visualization reports and dashboards for large datasets using Power BI tool to improve business leads across divisions to improve better business decisions.
-##  My Portfolio hosted using Github pages [here](https://ggithub2020.github.io/Ggithub2020-Ggithub2020-.github.io/)
+##  My Portfolio hosted using Github pages [here](https://ggithub2020.github.io/www.girumbi.com/)
 
 
 
