@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My Name is Girum. Thank you for visiting my profile 
+##My Name is Girum. Thank you for visiting my profile 
 
 #![business-intelligence-1024x358-1024x358](https://user-images.githubusercontent.com/73087775/108652825-e5c9bb00-7479-11eb-9270-a3b4f294e4e8.jpg)
 
